@@ -13,3 +13,6 @@ The tradingview alert has to be in a json format for eg: {"order":buy}
 more exchanges,
 limit orders,
 (well, make it more effificent...)
+
+
+use it at your own risk, this is just me documenting my projects.
